@@ -1,3 +1,5 @@
+package arraysandhashing;
+
 import java.util.*;
 
 public class GroupAnagrams {

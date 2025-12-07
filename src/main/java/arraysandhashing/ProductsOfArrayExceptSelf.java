@@ -1,3 +1,5 @@
+package arraysandhashing;
+
 public class ProductsOfArrayExceptSelf {
     public int[] productExceptSelf(int[] nums) {
         int length = nums.length;
